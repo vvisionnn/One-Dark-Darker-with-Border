@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-darker-with-border",
+    "displayName": "one dark darker with border",
+    "description": "atom one dark theme but darker",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Darker with Border",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Darker with Border-color-theme.json"
+            }
+        ]
+    }
+}
